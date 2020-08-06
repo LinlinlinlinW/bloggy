@@ -134,3 +134,24 @@ A note on publishers and readers: we distinguish publishers from readers mainly 
 	- Transpiler: babel
 	- Testing: mocha + chai
 	- Authentication & authorization: JWT (JSON Web Token)
+
+## Mobile Version
+
+- login and registration
+![this is an image](mobile-gifs/login.png)
+![this is an image](mobile-gifs/register.png)
+
+- main page UI
+![this is a gif](mobile-gifs/0_main_theme_compressed.gif)
+
+- create an article as a draft
+![this is a gif](mobile-gifs/1_creat_article_draft_compressed.gif)
+
+- set an article to be public
+![this is a gif](mobile-gifs/1_create_article_setNOTdraft_compressed.gif)
+
+- article management
+![this is a gif](mobile-gifs/2_article_management_compressed.gif)
+
+- create a new category
+![this is a gif](mobile-gifs/3_add_category_compressed.gif)
